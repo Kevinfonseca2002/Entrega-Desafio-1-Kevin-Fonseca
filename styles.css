@@ -1,0 +1,20 @@
+.calculadora {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            border: solid black;
+            border-radius: 15px;
+            width: 180px;
+            margin: auto;
+            height: 300px;
+            background-color: rgb(165, 168, 167);}
+
+.pantalla {border: solid black;
+            flex-grow: 4;
+            height: 50px;
+            margin: 0 6px;
+            border-radius: 15px;
+            background-color: aliceblue;}
+
+body {background-color: rgb(75, 75, 75);}
